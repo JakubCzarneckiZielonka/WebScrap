@@ -1,0 +1,6128 @@
+{
+    "version": "03",
+    "data": [
+        {
+            "gameid": [
+                "steam",
+                "app/238960"
+            ],
+            "title": "Path of Exile",
+            "url": "https://store.steampowered.com/app/238960/",
+            "type": "Game",
+            "release_date": "23 października 2013",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/634070"
+            ],
+            "title": "Murnatan",
+            "url": "https://store.steampowered.com/app/634070/",
+            "type": "Game",
+            "release_date": "24 marca 2018",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/922620"
+            ],
+            "title": "Kingshunt",
+            "url": "https://store.steampowered.com/app/922620/",
+            "type": "Game",
+            "release_date": "3 listopada 2022",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1061670"
+            ],
+            "title": "Heroes of the Multiverse",
+            "url": "https://store.steampowered.com/app/1061670/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1142050"
+            ],
+            "title": "Deadhaus Sonata",
+            "url": "https://store.steampowered.com/app/1142050/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1242700"
+            ],
+            "title": "探墓笔记-墲人之境",
+            "url": "https://store.steampowered.com/app/1242700/",
+            "type": "Game",
+            "release_date": "7 grudnia 2023",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1277920"
+            ],
+            "title": "Ethyrial: Echoes of Yore",
+            "url": "https://store.steampowered.com/app/1277920/",
+            "type": "Game",
+            "release_date": "1 maja 2023",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1366850"
+            ],
+            "title": "Jected - Rivals",
+            "url": "https://store.steampowered.com/app/1366850/",
+            "type": "Game",
+            "release_date": "10 października 2023",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1411160"
+            ],
+            "title": "Crusader's Dynasty",
+            "url": "https://store.steampowered.com/app/1411160/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1517150"
+            ],
+            "title": "Vedelem: The Golden Horde",
+            "url": "https://store.steampowered.com/app/1517150/",
+            "type": "Game",
+            "release_date": "22 czerwca 2021",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1531430"
+            ],
+            "title": "Paragon: The Overprime",
+            "url": "https://store.steampowered.com/app/1531430/",
+            "type": "Game",
+            "release_date": "6 grudnia 2022",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1549250"
+            ],
+            "title": "UNDECEMBER",
+            "url": "https://store.steampowered.com/app/1549250/",
+            "type": "Game",
+            "release_date": "12 października 2022",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1565320"
+            ],
+            "title": "Total Havoc",
+            "url": "https://store.steampowered.com/app/1565320/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1599340"
+            ],
+            "title": "Lost Ark",
+            "url": "https://store.steampowered.com/app/1599340/",
+            "type": "Game",
+            "release_date": "11 lutego 2022",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1716870"
+            ],
+            "title": "Epoch Ultra",
+            "url": "https://store.steampowered.com/app/1716870/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1768550"
+            ],
+            "title": "Alien Removal Division",
+            "url": "https://store.steampowered.com/app/1768550/",
+            "type": "Game",
+            "release_date": "17 czerwca 2022",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1808500"
+            ],
+            "title": "ARC Raiders",
+            "url": "https://store.steampowered.com/app/1808500/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1819920"
+            ],
+            "title": "第九大陆",
+            "url": "https://store.steampowered.com/app/1819920/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1881700"
+            ],
+            "title": "Undawn",
+            "url": "https://store.steampowered.com/app/1881700/",
+            "type": "Game",
+            "release_date": "14 czerwca 2023",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1959480"
+            ],
+            "title": "Eternal Edge+ Prologue",
+            "url": "https://store.steampowered.com/app/1959480/",
+            "type": "Game",
+            "release_date": "5 maja 2022",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1974050"
+            ],
+            "title": "Torchlight: Infinite",
+            "url": "https://store.steampowered.com/app/1974050/",
+            "type": "Game",
+            "release_date": "10 maja 2023",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1986760"
+            ],
+            "title": "Police Stories: The Academy",
+            "url": "https://store.steampowered.com/app/1986760/",
+            "type": "Game",
+            "release_date": "2 sierpnia 2022",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1992850"
+            ],
+            "title": "Cyrah's Ascent",
+            "url": "https://store.steampowered.com/app/1992850/",
+            "type": "Game",
+            "release_date": "4 czerwca 2022",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1995730"
+            ],
+            "title": "Volzerk : Monsters and Lands Unknown",
+            "url": "https://store.steampowered.com/app/1995730/",
+            "type": "Game",
+            "release_date": "25 stycznia 2023",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2003060"
+            ],
+            "title": "Monsters Domain: Prologue",
+            "url": "https://store.steampowered.com/app/2003060/",
+            "type": "Game",
+            "release_date": "27 czerwca 2023",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2003070"
+            ],
+            "title": "Orc Warchief: Prologue",
+            "url": "https://store.steampowered.com/app/2003070/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2012510"
+            ],
+            "title": "Stormgate",
+            "url": "https://store.steampowered.com/app/2012510/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2056220"
+            ],
+            "title": "Bloody Hell",
+            "url": "https://store.steampowered.com/app/2056220/",
+            "type": "Game",
+            "release_date": "27 stycznia 2023",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2059990"
+            ],
+            "title": "镇魔曲",
+            "url": "https://store.steampowered.com/app/2059990/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2064650"
+            ],
+            "title": "Tower of Fantasy",
+            "url": "https://store.steampowered.com/app/2064650/",
+            "type": "Game",
+            "release_date": "20 października 2022",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2067850"
+            ],
+            "title": "Drakensang Online",
+            "url": "https://store.steampowered.com/app/2067850/",
+            "type": "Game",
+            "release_date": "16 maja 2023",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2073850"
+            ],
+            "title": "THE FINALS",
+            "url": "https://store.steampowered.com/app/2073850/",
+            "type": "Game",
+            "release_date": "8 grudnia 2023",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2107670"
+            ],
+            "title": "Warhaven",
+            "url": "https://store.steampowered.com/app/2107670/",
+            "type": "Game",
+            "release_date": "21 września 2023",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2225070"
+            ],
+            "title": "Trackmania",
+            "url": "https://store.steampowered.com/app/2225070/",
+            "type": "Game",
+            "release_date": "2 lutego 2023",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2273550"
+            ],
+            "title": "Postmouse",
+            "url": "https://store.steampowered.com/app/2273550/",
+            "type": "Game",
+            "release_date": "30 stycznia 2023",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2295520"
+            ],
+            "title": "Gladiators: Survival in Rome",
+            "url": "https://store.steampowered.com/app/2295520/",
+            "type": "Game",
+            "release_date": "13 kwietnia 2023",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2302640"
+            ],
+            "title": "SkyIsland",
+            "url": "https://store.steampowered.com/app/2302640/",
+            "type": "Game",
+            "release_date": "15 lutego 2023",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2359600"
+            ],
+            "title": "Perfect New World",
+            "url": "https://store.steampowered.com/app/2359600/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2465830"
+            ],
+            "title": "Robin Hood - Sherwood Builders - Bandit's Trail",
+            "url": "https://store.steampowered.com/app/2465830/",
+            "type": "Game",
+            "release_date": "9 sierpnia 2023",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2694490"
+            ],
+            "title": "Path of Exile 2",
+            "url": "https://store.steampowered.com/app/2694490/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/514920"
+            ],
+            "title": "Crash Wheels",
+            "url": "https://store.steampowered.com/app/514920/",
+            "type": "Game",
+            "release_date": "20 grudnia 2018",
+            "note": null,
+            "price": "321",
+            "discount": 86
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1523740"
+            ],
+            "title": "ENDLESS™ Legend - Monstrous Tales",
+            "url": "https://store.steampowered.com/app/1523740/",
+            "type": "DLC",
+            "release_date": "6 maja 2021",
+            "note": null,
+            "price": "329",
+            "discount": 70
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/470090"
+            ],
+            "title": "Quantum Replica",
+            "url": "https://store.steampowered.com/app/470090/",
+            "type": "Game",
+            "release_date": "31 maja 2018",
+            "note": null,
+            "price": "554",
+            "discount": 85
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2278830"
+            ],
+            "title": "GunSuit Guardians",
+            "url": "https://store.steampowered.com/app/2278830/",
+            "type": "Game",
+            "release_date": "31 marca 2023",
+            "note": null,
+            "price": "1079",
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1574990"
+            ],
+            "title": "Pushing the limit",
+            "url": "https://store.steampowered.com/app/1574990/",
+            "type": "Game",
+            "release_date": "24 sierpnia 2023",
+            "note": null,
+            "price": "1143",
+            "discount": 48
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1451990"
+            ],
+            "title": "Soul Delivery Chapter 1+2",
+            "url": "https://store.steampowered.com/app/1451990/",
+            "type": "Game",
+            "release_date": "15 maja 2023",
+            "note": null,
+            "price": "1149",
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2214250"
+            ],
+            "title": "Falsepine",
+            "url": "https://store.steampowered.com/app/2214250/",
+            "type": "Game",
+            "release_date": "1 grudnia 2022",
+            "note": null,
+            "price": "1599",
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2354600"
+            ],
+            "title": "Renfield: Bring Your Own Blood",
+            "url": "https://store.steampowered.com/app/2354600/",
+            "type": "Game",
+            "release_date": "20 września 2023",
+            "note": null,
+            "price": "1609",
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2244480"
+            ],
+            "title": "REMEDIUM: Sentinels",
+            "url": "https://store.steampowered.com/app/2244480/",
+            "type": "Game",
+            "release_date": "18 lipca 2023",
+            "note": null,
+            "price": "1724",
+            "discount": 25
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2218750"
+            ],
+            "title": "Halls of Torment",
+            "url": "https://store.steampowered.com/app/2218750/",
+            "type": "Game",
+            "release_date": "24 maja 2023",
+            "note": null,
+            "price": "1760",
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/371140"
+            ],
+            "title": "Aegis Defenders",
+            "url": "https://store.steampowered.com/app/371140/",
+            "type": "Game",
+            "release_date": "8 lutego 2018",
+            "note": null,
+            "price": "1799",
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/445600"
+            ],
+            "title": "Void Raiders",
+            "url": "https://store.steampowered.com/app/445600/",
+            "type": "Game",
+            "release_date": "14 czerwca 2016",
+            "note": null,
+            "price": "1799",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2281650"
+            ],
+            "title": "An Ankou",
+            "url": "https://store.steampowered.com/app/2281650/",
+            "type": "Game",
+            "release_date": "17 sierpnia 2023",
+            "note": null,
+            "price": "1839",
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2441270"
+            ],
+            "title": "Kill The Crows",
+            "url": "https://store.steampowered.com/app/2441270/",
+            "type": "Game",
+            "release_date": "21 sierpnia 2023",
+            "note": null,
+            "price": "2069",
+            "discount": 10
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2007040"
+            ],
+            "title": "Hero’s Hour - Rogue Realms",
+            "url": "https://store.steampowered.com/app/2007040/",
+            "type": "DLC",
+            "release_date": "2 marca 2023",
+            "note": null,
+            "price": "2219",
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2239150"
+            ],
+            "title": "Thronefall",
+            "url": "https://store.steampowered.com/app/2239150/",
+            "type": "Game",
+            "release_date": "2 sierpnia 2023",
+            "note": null,
+            "price": "2559",
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2089980"
+            ],
+            "title": "Extremely Powerful Capybaras",
+            "url": "https://store.steampowered.com/app/2089980/",
+            "type": "Game",
+            "release_date": "5 grudnia 2023",
+            "note": null,
+            "price": "2750",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2510510"
+            ],
+            "title": "Commander: Zombie Wars",
+            "url": "https://store.steampowered.com/app/2510510/",
+            "type": "Game",
+            "release_date": "29 września 2023",
+            "note": null,
+            "price": "2759",
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2334730"
+            ],
+            "title": "Death Must Die",
+            "url": "https://store.steampowered.com/app/2334730/",
+            "type": "Game",
+            "release_date": "14 listopada 2023",
+            "note": null,
+            "price": "2879",
+            "discount": 10
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1926270"
+            ],
+            "title": "Bloodhound",
+            "url": "https://store.steampowered.com/app/1926270/",
+            "type": "Game",
+            "release_date": "18 lipca 2023",
+            "note": null,
+            "price": "2999",
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2176430"
+            ],
+            "title": "Testament: The Order of High Human",
+            "url": "https://store.steampowered.com/app/2176430/",
+            "type": "Game",
+            "release_date": "13 lipca 2023",
+            "note": null,
+            "price": "3219",
+            "discount": 65
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2025320"
+            ],
+            "title": "Estencel",
+            "url": "https://store.steampowered.com/app/2025320/",
+            "type": "Game",
+            "release_date": "19 stycznia 2023",
+            "note": null,
+            "price": "3574",
+            "discount": 35
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/272330"
+            ],
+            "title": "Shadow Blade: Reload",
+            "url": "https://store.steampowered.com/app/272330/",
+            "type": "Game",
+            "release_date": "10 sierpnia 2015",
+            "note": null,
+            "price": "3599",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1665260"
+            ],
+            "title": "Beyond Sunset",
+            "url": "https://store.steampowered.com/app/1665260/",
+            "type": "Game",
+            "release_date": "8 listopada 2023",
+            "note": null,
+            "price": "3784",
+            "discount": 54
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1956040"
+            ],
+            "title": "Kingdom Eighties",
+            "url": "https://store.steampowered.com/app/1956040/",
+            "type": "Game",
+            "release_date": "26 czerwca 2023",
+            "note": null,
+            "price": "3849",
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2218400"
+            ],
+            "title": "Greedland",
+            "url": "https://store.steampowered.com/app/2218400/",
+            "type": "Game",
+            "release_date": "4 sierpnia 2023",
+            "note": null,
+            "price": "3899",
+            "discount": 22
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2290180"
+            ],
+            "title": "Riders Republic",
+            "url": "https://store.steampowered.com/app/2290180/",
+            "type": "Game",
+            "release_date": "8 czerwca 2023",
+            "note": null,
+            "price": "3997",
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1820140"
+            ],
+            "title": "SlavicPunk: Oldtimer",
+            "url": "https://store.steampowered.com/app/1820140/",
+            "type": "Game",
+            "release_date": "28 czerwca 2023",
+            "note": null,
+            "price": "3999",
+            "discount": 60
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2317820"
+            ],
+            "title": "Feudal Friends",
+            "url": "https://store.steampowered.com/app/2317820/",
+            "type": "Game",
+            "release_date": "17 lipca 2023",
+            "note": null,
+            "price": "4149",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1724770"
+            ],
+            "title": "Castle Of Alchemists",
+            "url": "https://store.steampowered.com/app/1724770/",
+            "type": "Game",
+            "release_date": "17 maja 2023",
+            "note": null,
+            "price": "4419",
+            "discount": 35
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/633080"
+            ],
+            "title": "Relic Hunters Legenda",
+            "url": "https://store.steampowered.com/app/633080/",
+            "type": "Game",
+            "release_date": "25 września 2023",
+            "note": null,
+            "price": "4555",
+            "discount": 33
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/922050"
+            ],
+            "title": "DOOMBLADE",
+            "url": "https://store.steampowered.com/app/922050/",
+            "type": "Game",
+            "release_date": "31 maja 2023",
+            "note": null,
+            "price": "4555",
+            "discount": 33
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1531020"
+            ],
+            "title": "SPECTRE",
+            "url": "https://store.steampowered.com/app/1531020/",
+            "type": "Game",
+            "release_date": "24 lipca 2023",
+            "note": null,
+            "price": "4599",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2351560"
+            ],
+            "title": "Apocalypse Party",
+            "url": "https://store.steampowered.com/app/2351560/",
+            "type": "Game",
+            "release_date": "1 grudnia 2023",
+            "note": null,
+            "price": "4599",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1654660"
+            ],
+            "title": "En Garde!",
+            "url": "https://store.steampowered.com/app/1654660/",
+            "type": "Game",
+            "release_date": "16 sierpnia 2023",
+            "note": null,
+            "price": "4740",
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/909750"
+            ],
+            "title": "Bloodbound",
+            "url": "https://store.steampowered.com/app/909750/",
+            "type": "Game",
+            "release_date": "25 października 2023",
+            "note": null,
+            "price": "4759",
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1171690"
+            ],
+            "title": "Wayfinder",
+            "url": "https://store.steampowered.com/app/1171690/",
+            "type": "Game",
+            "release_date": "17 sierpnia 2023",
+            "note": null,
+            "price": "4799",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1466400"
+            ],
+            "title": "Edge Of Dead: Under A Uranium Sky",
+            "url": "https://store.steampowered.com/app/1466400/",
+            "type": "Game",
+            "release_date": "16 listopada 2023",
+            "note": null,
+            "price": "4799",
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2072660"
+            ],
+            "title": "Voidborn",
+            "url": "https://store.steampowered.com/app/2072660/",
+            "type": "Game",
+            "release_date": "18 sierpnia 2023",
+            "note": null,
+            "price": "4799",
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2005010"
+            ],
+            "title": "Warhammer 40,000: Boltgun",
+            "url": "https://store.steampowered.com/app/2005010/",
+            "type": "Game",
+            "release_date": "23 maja 2023",
+            "note": null,
+            "price": "5439",
+            "discount": 32
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1259420"
+            ],
+            "title": "Days Gone",
+            "url": "https://store.steampowered.com/app/1259420/",
+            "type": "Game",
+            "release_date": "18 maja 2021",
+            "note": null,
+            "price": "5475",
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1895820"
+            ],
+            "title": "Greedventory",
+            "url": "https://store.steampowered.com/app/1895820/",
+            "type": "Game",
+            "release_date": "17 maja 2023",
+            "note": null,
+            "price": "5519",
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/742420"
+            ],
+            "title": "Saints Row",
+            "url": "https://store.steampowered.com/app/742420/",
+            "type": "Game",
+            "release_date": "24 sierpnia 2023",
+            "note": null,
+            "price": "5703",
+            "discount": 55
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1224030"
+            ],
+            "title": "Erra: Exordium",
+            "url": "https://store.steampowered.com/app/1224030/",
+            "type": "Game",
+            "release_date": "9 listopada 2023",
+            "note": null,
+            "price": "5759",
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1337520"
+            ],
+            "title": "Risk of Rain Returns",
+            "url": "https://store.steampowered.com/app/1337520/",
+            "type": "Game",
+            "release_date": "8 listopada 2023",
+            "note": null,
+            "price": "5779",
+            "discount": 15
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1890950"
+            ],
+            "title": "REAVER",
+            "url": "https://store.steampowered.com/app/1890950/",
+            "type": "Game",
+            "release_date": "30 listopada 2023",
+            "note": null,
+            "price": "5900",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2140020"
+            ],
+            "title": "Stronghold: Definitive Edition",
+            "url": "https://store.steampowered.com/app/2140020/",
+            "type": "Game",
+            "release_date": "7 listopada 2023",
+            "note": null,
+            "price": "6119",
+            "discount": 10
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1952370"
+            ],
+            "title": "Oblivion Override",
+            "url": "https://store.steampowered.com/app/1952370/",
+            "type": "Game",
+            "release_date": "14 czerwca 2023",
+            "note": null,
+            "price": "6224",
+            "discount": 25
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/704000"
+            ],
+            "title": "GUNHEAD",
+            "url": "https://store.steampowered.com/app/704000/",
+            "type": "Game",
+            "release_date": "8 listopada 2023",
+            "note": null,
+            "price": "6439",
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2374280"
+            ],
+            "title": "The King's Campaign",
+            "url": "https://store.steampowered.com/app/2374280/",
+            "type": "Game",
+            "release_date": "13 lipca 2023",
+            "note": null,
+            "price": "6439",
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1659090"
+            ],
+            "title": "REMEDIUM",
+            "url": "https://store.steampowered.com/app/1659090/",
+            "type": "Game",
+            "release_date": "14 września 2023",
+            "note": null,
+            "price": "6639",
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1715590"
+            ],
+            "title": "Wizordum",
+            "url": "https://store.steampowered.com/app/1715590/",
+            "type": "Game",
+            "release_date": "29 listopada 2023",
+            "note": null,
+            "price": "6799",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1145630"
+            ],
+            "title": "BEAST: False Prophet",
+            "url": "https://store.steampowered.com/app/1145630/",
+            "type": "Game",
+            "release_date": "25 października 2023",
+            "note": null,
+            "price": "6899",
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2160480"
+            ],
+            "title": "Hellboy Web of Wyrd",
+            "url": "https://store.steampowered.com/app/2160480/",
+            "type": "Game",
+            "release_date": "18 października 2023",
+            "note": null,
+            "price": "6899",
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1299510"
+            ],
+            "title": "Vampire: The Masquerade – Swansong",
+            "url": "https://store.steampowered.com/app/1299510/",
+            "type": "Game",
+            "release_date": "30 maja 2023",
+            "note": null,
+            "price": "6959",
+            "discount": 70
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1062810"
+            ],
+            "title": "Inkbound",
+            "url": "https://store.steampowered.com/app/1062810/",
+            "type": "Game",
+            "release_date": "22 maja 2023",
+            "note": null,
+            "price": "7359",
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2429240"
+            ],
+            "title": "Soulslinger: Envoy of Death",
+            "url": "https://store.steampowered.com/app/2429240/",
+            "type": "Game",
+            "release_date": "14 grudnia 2023",
+            "note": null,
+            "price": "7469",
+            "discount": 10
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1351210"
+            ],
+            "title": "Gord",
+            "url": "https://store.steampowered.com/app/1351210/",
+            "type": "Game",
+            "release_date": "17 sierpnia 2023",
+            "note": null,
+            "price": "7499",
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1622710"
+            ],
+            "title": "Oceanhorn 2: Knights of the Lost Realm",
+            "url": "https://store.steampowered.com/app/1622710/",
+            "type": "Game",
+            "release_date": "2 sierpnia 2023",
+            "note": null,
+            "price": "7499",
+            "discount": 25
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2272250"
+            ],
+            "title": "Forgive Me Father 2",
+            "url": "https://store.steampowered.com/app/2272250/",
+            "type": "Game",
+            "release_date": "19 października 2023",
+            "note": null,
+            "price": "7521",
+            "discount": 15
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2179440"
+            ],
+            "title": "New Heights: Realistic Climbing and Bouldering",
+            "url": "https://store.steampowered.com/app/2179440/",
+            "type": "Game",
+            "release_date": "7 lipca 2023",
+            "note": null,
+            "price": "7819",
+            "discount": 15
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1276800"
+            ],
+            "title": "CONVERGENCE: A League of Legends Story™",
+            "url": "https://store.steampowered.com/app/1276800/",
+            "type": "Game",
+            "release_date": "23 maja 2023",
+            "note": null,
+            "price": "8099",
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1692240"
+            ],
+            "title": "Fortune's Run",
+            "url": "https://store.steampowered.com/app/1692240/",
+            "type": "Game",
+            "release_date": "28 września 2023",
+            "note": null,
+            "price": "8279",
+            "discount": 10
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1981820"
+            ],
+            "title": "Strike Force Heroes",
+            "url": "https://store.steampowered.com/app/1981820/",
+            "type": "Game",
+            "release_date": "10 listopada 2023",
+            "note": null,
+            "price": "8279",
+            "discount": 10
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1274600"
+            ],
+            "title": "The Last Faith",
+            "url": "https://store.steampowered.com/app/1274600/",
+            "type": "Game",
+            "release_date": "15 listopada 2023",
+            "note": null,
+            "price": "8399",
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1230530"
+            ],
+            "title": "Atlas Fallen",
+            "url": "https://store.steampowered.com/app/1230530/",
+            "type": "Game",
+            "release_date": "9 sierpnia 2023",
+            "note": null,
+            "price": "8499",
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2138330"
+            ],
+            "title": "Cyberpunk 2077: Widmo wolności",
+            "url": "https://store.steampowered.com/app/2138330/",
+            "type": "DLC",
+            "release_date": "26 września 2023",
+            "note": null,
+            "price": "8499",
+            "discount": 15
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1436700"
+            ],
+            "title": "Trine 5: A Clockwork Conspiracy",
+            "url": "https://store.steampowered.com/app/1436700/",
+            "type": "Game",
+            "release_date": "31 sierpnia 2023",
+            "note": null,
+            "price": "8514",
+            "discount": 34
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1676840"
+            ],
+            "title": "For The King II",
+            "url": "https://store.steampowered.com/app/1676840/",
+            "type": "Game",
+            "release_date": "2 listopada 2023",
+            "note": null,
+            "price": "8549",
+            "discount": 10
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1931730"
+            ],
+            "title": "Fort Solis",
+            "url": "https://store.steampowered.com/app/1931730/",
+            "type": "Game",
+            "release_date": "22 sierpnia 2023",
+            "note": null,
+            "price": "8624",
+            "discount": 25
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1807210"
+            ],
+            "title": "Stray Souls",
+            "url": "https://store.steampowered.com/app/1807210/",
+            "type": "Game",
+            "release_date": "25 października 2023",
+            "note": null,
+            "price": "8793",
+            "discount": 25
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1485590"
+            ],
+            "title": "ENDLESS™ Dungeon",
+            "url": "https://store.steampowered.com/app/1485590/",
+            "type": "Game",
+            "release_date": "19 października 2023",
+            "note": null,
+            "price": "9030",
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1558830"
+            ],
+            "title": "RIPOUT",
+            "url": "https://store.steampowered.com/app/1558830/",
+            "type": "Game",
+            "release_date": "24 października 2023",
+            "note": null,
+            "price": "9199",
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1647920"
+            ],
+            "title": "Valfaris: Mecha Therion",
+            "url": "https://store.steampowered.com/app/1647920/",
+            "type": "Game",
+            "release_date": "21 listopada 2023",
+            "note": null,
+            "price": "9199",
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1977170"
+            ],
+            "title": "Jusant",
+            "url": "https://store.steampowered.com/app/1977170/",
+            "type": "Game",
+            "release_date": "31 października 2023",
+            "note": null,
+            "price": "9199",
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1150440"
+            ],
+            "title": "Aliens: Dark Descent",
+            "url": "https://store.steampowered.com/app/1150440/",
+            "type": "Game",
+            "release_date": "19 czerwca 2023",
+            "note": null,
+            "price": "9299",
+            "discount": 38
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1164940"
+            ],
+            "title": "Trepang2",
+            "url": "https://store.steampowered.com/app/1164940/",
+            "type": "Game",
+            "release_date": "21 czerwca 2023",
+            "note": null,
+            "price": "9312",
+            "discount": 33
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1530470"
+            ],
+            "title": "Daymare: 1994 Sandcastle",
+            "url": "https://store.steampowered.com/app/1530470/",
+            "type": "Game",
+            "release_date": "30 sierpnia 2023",
+            "note": null,
+            "price": "9599",
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1268750"
+            ],
+            "title": "Starship Troopers: Extermination",
+            "url": "https://store.steampowered.com/app/1268750/",
+            "type": "Game",
+            "release_date": "17 maja 2023",
+            "note": null,
+            "price": "10424",
+            "discount": 25
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2114740"
+            ],
+            "title": "Blasphemous 2",
+            "url": "https://store.steampowered.com/app/2114740/",
+            "type": "Game",
+            "release_date": "24 sierpnia 2023",
+            "note": null,
+            "price": "10424",
+            "discount": 25
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/945770"
+            ],
+            "title": "Dark Envoy",
+            "url": "https://store.steampowered.com/app/945770/",
+            "type": "Game",
+            "release_date": "24 października 2023",
+            "note": null,
+            "price": "11119",
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1159690"
+            ],
+            "title": "Voidtrain",
+            "url": "https://store.steampowered.com/app/1159690/",
+            "type": "Game",
+            "release_date": "9 maja 2023",
+            "note": null,
+            "price": "11119",
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2009100"
+            ],
+            "title": "Immortals of Aveum™",
+            "url": "https://store.steampowered.com/app/2009100/",
+            "type": "Game",
+            "release_date": "22 sierpnia 2023",
+            "note": null,
+            "price": "11196",
+            "discount": 60
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1161830"
+            ],
+            "title": "Age of Reforging:The Freelands",
+            "url": "https://store.steampowered.com/app/1161830/",
+            "type": "Game",
+            "release_date": "28 sierpnia 2023",
+            "note": null,
+            "price": "11499",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1421290"
+            ],
+            "title": "Battle Shapers",
+            "url": "https://store.steampowered.com/app/1421290/",
+            "type": "Game",
+            "release_date": "3 października 2023",
+            "note": null,
+            "price": "11499",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1940340"
+            ],
+            "title": "Darkest Dungeon® II",
+            "url": "https://store.steampowered.com/app/1940340/",
+            "type": "Game",
+            "release_date": "8 maja 2023",
+            "note": null,
+            "price": "12130",
+            "discount": 60
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1306770"
+            ],
+            "title": "Revival: Recolonization",
+            "url": "https://store.steampowered.com/app/1306770/",
+            "type": "Game",
+            "release_date": "28 czerwca 2023",
+            "note": null,
+            "price": "12509",
+            "discount": 10
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2144740"
+            ],
+            "title": "Ghostrunner 2",
+            "url": "https://store.steampowered.com/app/2144740/",
+            "type": "Game",
+            "release_date": "26 października 2023",
+            "note": null,
+            "price": "12530",
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1282100"
+            ],
+            "title": "Remnant II",
+            "url": "https://store.steampowered.com/app/1282100/",
+            "type": "Game",
+            "release_date": "25 lipca 2023",
+            "note": null,
+            "price": "12599",
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1830630"
+            ],
+            "title": "Overpass 2",
+            "url": "https://store.steampowered.com/app/1830630/",
+            "type": "Game",
+            "release_date": "28 września 2023",
+            "note": null,
+            "price": "12949",
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1817190"
+            ],
+            "title": "Marvel’s Spider-Man: Miles Morales",
+            "url": "https://store.steampowered.com/app/1817190/",
+            "type": "Game",
+            "release_date": "18 listopada 2022",
+            "note": null,
+            "price": "13140",
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1084160"
+            ],
+            "title": "Jagged Alliance 3",
+            "url": "https://store.steampowered.com/app/1084160/",
+            "type": "Game",
+            "release_date": "14 lipca 2023",
+            "note": null,
+            "price": "13760",
+            "discount": 34
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1849250"
+            ],
+            "title": "EA SPORTS™ WRC",
+            "url": "https://store.steampowered.com/app/1849250/",
+            "type": "Game",
+            "release_date": "3 listopada 2023",
+            "note": null,
+            "price": "13794",
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1548850"
+            ],
+            "title": "Six Days in Fallujah",
+            "url": "https://store.steampowered.com/app/1548850/",
+            "type": "Game",
+            "release_date": "22 czerwca 2023",
+            "note": null,
+            "price": "13874",
+            "discount": 25
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2152790"
+            ],
+            "title": "UNITED 1944",
+            "url": "https://store.steampowered.com/app/2152790/",
+            "type": "Game",
+            "release_date": "12 grudnia 2023",
+            "note": null,
+            "price": "13899",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2051120"
+            ],
+            "title": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
+            "url": "https://store.steampowered.com/app/2051120/",
+            "type": "Game",
+            "release_date": "19 października 2023",
+            "note": null,
+            "price": "15330",
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1817070"
+            ],
+            "title": "Marvel’s Spider-Man Remastered",
+            "url": "https://store.steampowered.com/app/1817070/",
+            "type": "Game",
+            "release_date": "12 sierpnia 2022",
+            "note": null,
+            "price": "15540",
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1553710"
+            ],
+            "title": "Dreadhunter",
+            "url": "https://store.steampowered.com/app/1553710/",
+            "type": "Game",
+            "release_date": "18 października 2023",
+            "note": null,
+            "price": "16199",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1681430"
+            ],
+            "title": "RoboCop: Rogue City",
+            "url": "https://store.steampowered.com/app/1681430/",
+            "type": "Game",
+            "release_date": "2 listopada 2023",
+            "note": null,
+            "price": "16239",
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1501750"
+            ],
+            "title": "Lords of the Fallen",
+            "url": "https://store.steampowered.com/app/1501750/",
+            "type": "Game",
+            "release_date": "13 października 2023",
+            "note": null,
+            "price": "16249",
+            "discount": 35
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1844380"
+            ],
+            "title": "Warhammer Age of Sigmar: Realms of Ruin",
+            "url": "https://store.steampowered.com/app/1844380/",
+            "type": "Game",
+            "release_date": "17 listopada 2023",
+            "note": null,
+            "price": "16499",
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/553850"
+            ],
+            "title": "HELLDIVERS™ 2",
+            "url": "https://store.steampowered.com/app/553850/",
+            "type": "Game",
+            "release_date": "8 lutego 2024",
+            "note": null,
+            "price": "16900",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1937780"
+            ],
+            "title": "Total War: PHARAOH",
+            "url": "https://store.steampowered.com/app/1937780/",
+            "type": "Game",
+            "release_date": "11 października 2023",
+            "note": null,
+            "price": "16999",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1364780"
+            ],
+            "title": "Street Fighter™ 6",
+            "url": "https://store.steampowered.com/app/1364780/",
+            "type": "Game",
+            "release_date": "2023",
+            "note": null,
+            "price": "17094",
+            "discount": 34
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2375550"
+            ],
+            "title": "Like a Dragon Gaiden: The Man Who Erased His Name",
+            "url": "https://store.steampowered.com/app/2375550/",
+            "type": "Game",
+            "release_date": "8 listopada 2023",
+            "note": null,
+            "price": "17175",
+            "discount": 25
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1895880"
+            ],
+            "title": "Ratchet &amp; Clank: Rift Apart",
+            "url": "https://store.steampowered.com/app/1895880/",
+            "type": "Game",
+            "release_date": "26 lipca 2023",
+            "note": null,
+            "price": "17353",
+            "discount": 33
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1286320"
+            ],
+            "title": "Exoprimal",
+            "url": "https://store.steampowered.com/app/1286320/",
+            "type": "Game",
+            "release_date": "2023",
+            "note": null,
+            "price": "17485",
+            "discount": 35
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1677280"
+            ],
+            "title": "Company of Heroes 3",
+            "url": "https://store.steampowered.com/app/1677280/",
+            "type": "Game",
+            "release_date": "23 lutego 2023",
+            "note": null,
+            "price": "18033",
+            "discount": 49
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1469610"
+            ],
+            "title": "Last Train Home",
+            "url": "https://store.steampowered.com/app/1469610/",
+            "type": "Game",
+            "release_date": "28 listopada 2023",
+            "note": null,
+            "price": "18304",
+            "discount": 34
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1351000"
+            ],
+            "title": "Gangs of Sherwood",
+            "url": "https://store.steampowered.com/app/1351000/",
+            "type": "Game",
+            "release_date": "30 listopada 2023",
+            "note": null,
+            "price": "18499",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1999770"
+            ],
+            "title": "Atelier Ryza 3: Alchemist of the End &amp; the Secret Key",
+            "url": "https://store.steampowered.com/app/1999770/",
+            "type": "Game",
+            "release_date": "24 marca 2023",
+            "note": null,
+            "price": "19249",
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1643310"
+            ],
+            "title": "Dungeons 4",
+            "url": "https://store.steampowered.com/app/1643310/",
+            "type": "Game",
+            "release_date": "9 listopada 2023",
+            "note": null,
+            "price": "19799",
+            "discount": 10
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1643320"
+            ],
+            "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+            "url": "https://store.steampowered.com/app/1643320/",
+            "type": "Game",
+            "release_date": "1. kwartał 2024",
+            "note": null,
+            "price": "19999",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2344520"
+            ],
+            "title": "Diablo® IV",
+            "url": "https://store.steampowered.com/app/2344520/",
+            "type": "Game",
+            "release_date": "17 października 2023",
+            "note": null,
+            "price": "20940",
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1658280"
+            ],
+            "title": "Eiyuden Chronicle: Hundred Heroes",
+            "url": "https://store.steampowered.com/app/1658280/",
+            "type": "Game",
+            "release_date": "23 kwietnia 2024",
+            "note": null,
+            "price": "21900",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1086940"
+            ],
+            "title": "Baldur's Gate 3",
+            "url": "https://store.steampowered.com/app/1086940/",
+            "type": "Game",
+            "release_date": "3 sierpnia 2023",
+            "note": null,
+            "price": "22410",
+            "discount": 10
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2519060"
+            ],
+            "title": "Call of Duty®: Modern Warfare® III",
+            "url": "https://store.steampowered.com/app/2519060/",
+            "type": "Game",
+            "release_date": "10 listopada 2023",
+            "note": null,
+            "price": "24430",
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1020790"
+            ],
+            "title": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+            "url": "https://store.steampowered.com/app/1020790/",
+            "type": "Game",
+            "release_date": "16 listopada 2023",
+            "note": null,
+            "price": "24900",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1336980"
+            ],
+            "title": "NOBUNAGA'S AMBITION: Awakening",
+            "url": "https://store.steampowered.com/app/1336980/",
+            "type": "Game",
+            "release_date": "21 lipca 2022",
+            "note": null,
+            "price": "27499",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1778820"
+            ],
+            "title": "TEKKEN 8",
+            "url": "https://store.steampowered.com/app/1778820/",
+            "type": "Game",
+            "release_date": "26 stycznia 2024",
+            "note": null,
+            "price": "28900",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2054970"
+            ],
+            "title": "Dragon's Dogma 2",
+            "url": "https://store.steampowered.com/app/2054970/",
+            "type": "Game",
+            "release_date": "22 marca 2024",
+            "note": null,
+            "price": "29501",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/315210"
+            ],
+            "title": "Legion Samobójców: Śmierć Lidze Sprawiedliwości",
+            "url": "https://store.steampowered.com/app/315210/",
+            "type": "Game",
+            "release_date": "2 lutego 2024",
+            "note": null,
+            "price": "31400",
+            "discount": null
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/265750"
+            ],
+            "title": "Secret Ponchos",
+            "url": "https://store.steampowered.com/app/265750/",
+            "type": "Game",
+            "release_date": "13 października 2015",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/290100"
+            ],
+            "title": "Bulwark: Falconeer Chronicles",
+            "url": "https://store.steampowered.com/app/290100/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/292000"
+            ],
+            "title": "No More Room In Hell 2",
+            "url": "https://store.steampowered.com/app/292000/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/311810"
+            ],
+            "title": "Operation: Black Mesa",
+            "url": "https://store.steampowered.com/app/311810/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/340020"
+            ],
+            "title": "NoseBound",
+            "url": "https://store.steampowered.com/app/340020/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/388860"
+            ],
+            "title": "Judas",
+            "url": "https://store.steampowered.com/app/388860/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/443190"
+            ],
+            "title": "Project Haven",
+            "url": "https://store.steampowered.com/app/443190/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/508620"
+            ],
+            "title": "ZombLabs",
+            "url": "https://store.steampowered.com/app/508620/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/532790"
+            ],
+            "title": "Vampire: The Masquerade® - Bloodlines™ 2",
+            "url": "https://store.steampowered.com/app/532790/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/612400"
+            ],
+            "title": "The Last Night",
+            "url": "https://store.steampowered.com/app/612400/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/618330"
+            ],
+            "title": "Within the Cosmos",
+            "url": "https://store.steampowered.com/app/618330/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/655750"
+            ],
+            "title": "Trigger Spree",
+            "url": "https://store.steampowered.com/app/655750/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/690290"
+            ],
+            "title": "Territory Control 2",
+            "url": "https://store.steampowered.com/app/690290/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/716780"
+            ],
+            "title": "Sand is the Soul",
+            "url": "https://store.steampowered.com/app/716780/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/718190"
+            ],
+            "title": "Koboo: The Tree Spirit",
+            "url": "https://store.steampowered.com/app/718190/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/721460"
+            ],
+            "title": "Xeno Time Inception",
+            "url": "https://store.steampowered.com/app/721460/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/727690"
+            ],
+            "title": "PAIN-TO-WIN",
+            "url": "https://store.steampowered.com/app/727690/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/757940"
+            ],
+            "title": "Raygun Gadabout",
+            "url": "https://store.steampowered.com/app/757940/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/763180"
+            ],
+            "title": "Anima Flux",
+            "url": "https://store.steampowered.com/app/763180/",
+            "type": "Game",
+            "release_date": "4. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/763310"
+            ],
+            "title": "Projekt Z: Beyond Order",
+            "url": "https://store.steampowered.com/app/763310/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/793130"
+            ],
+            "title": "Post-Apo Machines",
+            "url": "https://store.steampowered.com/app/793130/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/808960"
+            ],
+            "title": "Opie: The Defender",
+            "url": "https://store.steampowered.com/app/808960/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/811760"
+            ],
+            "title": "The Last Exterminator",
+            "url": "https://store.steampowered.com/app/811760/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/836880"
+            ],
+            "title": "The Berlin Wall",
+            "url": "https://store.steampowered.com/app/836880/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/852420"
+            ],
+            "title": "Warhalla",
+            "url": "https://store.steampowered.com/app/852420/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/860210"
+            ],
+            "title": "Return to Nangrim",
+            "url": "https://store.steampowered.com/app/860210/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/881020"
+            ],
+            "title": "Granblue Fantasy: Relink",
+            "url": "https://store.steampowered.com/app/881020/",
+            "type": "Game",
+            "release_date": "1 lutego 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/887680"
+            ],
+            "title": "不当英雄ROGUELIKE HERO",
+            "url": "https://store.steampowered.com/app/887680/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/908820"
+            ],
+            "title": "UNLEASH HELL",
+            "url": "https://store.steampowered.com/app/908820/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/918190"
+            ],
+            "title": "Zoroastra",
+            "url": "https://store.steampowered.com/app/918190/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/922640"
+            ],
+            "title": "Defense corp - Earth",
+            "url": "https://store.steampowered.com/app/922640/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/951770"
+            ],
+            "title": "Forsaken Realms: Vahrin's Call",
+            "url": "https://store.steampowered.com/app/951770/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/955020"
+            ],
+            "title": "Utopia Syndrome",
+            "url": "https://store.steampowered.com/app/955020/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/966650"
+            ],
+            "title": "RAID OF REGIONS",
+            "url": "https://store.steampowered.com/app/966650/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/969330"
+            ],
+            "title": "The Way of Wrath",
+            "url": "https://store.steampowered.com/app/969330/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/986220"
+            ],
+            "title": "RAN: Lost Islands",
+            "url": "https://store.steampowered.com/app/986220/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/997650"
+            ],
+            "title": "Plague Squad",
+            "url": "https://store.steampowered.com/app/997650/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1002450"
+            ],
+            "title": "Evening Star 2: Tide of Chaos",
+            "url": "https://store.steampowered.com/app/1002450/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1013140"
+            ],
+            "title": "Outcast - A New Beginning",
+            "url": "https://store.steampowered.com/app/1013140/",
+            "type": "Game",
+            "release_date": "15 marca 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1028510"
+            ],
+            "title": "Past Fate",
+            "url": "https://store.steampowered.com/app/1028510/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1030300"
+            ],
+            "title": "Hollow Knight: Silksong",
+            "url": "https://store.steampowered.com/app/1030300/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1032980"
+            ],
+            "title": "Wild Life",
+            "url": "https://store.steampowered.com/app/1032980/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1037380"
+            ],
+            "title": "Cradle of Sins",
+            "url": "https://store.steampowered.com/app/1037380/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1059220"
+            ],
+            "title": "'83",
+            "url": "https://store.steampowered.com/app/1059220/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1065740"
+            ],
+            "title": "REPO MAN",
+            "url": "https://store.steampowered.com/app/1065740/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1093180"
+            ],
+            "title": "Kill The Moon",
+            "url": "https://store.steampowered.com/app/1093180/",
+            "type": "Game",
+            "release_date": "",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1103820"
+            ],
+            "title": "Siege of Irdor",
+            "url": "https://store.steampowered.com/app/1103820/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1104600"
+            ],
+            "title": "Rune Fencer Illyia",
+            "url": "https://store.steampowered.com/app/1104600/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1106680"
+            ],
+            "title": "School of Magic",
+            "url": "https://store.steampowered.com/app/1106680/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1114150"
+            ],
+            "title": "CarX Street",
+            "url": "https://store.steampowered.com/app/1114150/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1116170"
+            ],
+            "title": "CyberCorp",
+            "url": "https://store.steampowered.com/app/1116170/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1121510"
+            ],
+            "title": "Shadows of Kepler",
+            "url": "https://store.steampowered.com/app/1121510/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1128860"
+            ],
+            "title": "Men of War II",
+            "url": "https://store.steampowered.com/app/1128860/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1130380"
+            ],
+            "title": "OZARK",
+            "url": "https://store.steampowered.com/app/1130380/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1139910"
+            ],
+            "title": "NYX: The Awakening",
+            "url": "https://store.steampowered.com/app/1139910/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1145350"
+            ],
+            "title": "Hades II",
+            "url": "https://store.steampowered.com/app/1145350/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1149010"
+            ],
+            "title": "Warden",
+            "url": "https://store.steampowered.com/app/1149010/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1153410"
+            ],
+            "title": "Japanese Drift Master",
+            "url": "https://store.steampowered.com/app/1153410/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1154030"
+            ],
+            "title": "Titan Quest II",
+            "url": "https://store.steampowered.com/app/1154030/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1159090"
+            ],
+            "title": "Zoria: Age of Shattering",
+            "url": "https://store.steampowered.com/app/1159090/",
+            "type": "Game",
+            "release_date": "7 marca 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1159420"
+            ],
+            "title": "Robin Hood - Sherwood Builders",
+            "url": "https://store.steampowered.com/app/1159420/",
+            "type": "Game",
+            "release_date": "1. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1166890"
+            ],
+            "title": "Necrofugitive",
+            "url": "https://store.steampowered.com/app/1166890/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1172710"
+            ],
+            "title": "Dune: Awakening",
+            "url": "https://store.steampowered.com/app/1172710/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1175350"
+            ],
+            "title": "Archer: The Witch's Wrath",
+            "url": "https://store.steampowered.com/app/1175350/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1182410"
+            ],
+            "title": "Purgatory Guardian",
+            "url": "https://store.steampowered.com/app/1182410/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1182420"
+            ],
+            "title": "VED",
+            "url": "https://store.steampowered.com/app/1182420/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1186430"
+            ],
+            "title": "I.G.I. Origins",
+            "url": "https://store.steampowered.com/app/1186430/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1203620"
+            ],
+            "title": "Enshrouded",
+            "url": "https://store.steampowered.com/app/1203620/",
+            "type": "Game",
+            "release_date": "24 stycznia 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1208170"
+            ],
+            "title": "Samurai Simulator",
+            "url": "https://store.steampowered.com/app/1208170/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1219550"
+            ],
+            "title": "DORAIJIN",
+            "url": "https://store.steampowered.com/app/1219550/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1234970"
+            ],
+            "title": "HOLMGANG: Memories of the Forgotten",
+            "url": "https://store.steampowered.com/app/1234970/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1245250"
+            ],
+            "title": "Thrive: Heavy Lies The Crown",
+            "url": "https://store.steampowered.com/app/1245250/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1249970"
+            ],
+            "title": "Test Drive Unlimited Solar Crown",
+            "url": "https://store.steampowered.com/app/1249970/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1252680"
+            ],
+            "title": "SENTRY",
+            "url": "https://store.steampowered.com/app/1252680/",
+            "type": "Game",
+            "release_date": "1. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1268590"
+            ],
+            "title": "Millennia",
+            "url": "https://store.steampowered.com/app/1268590/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1269700"
+            ],
+            "title": "4 Minutes to the Apocalypse",
+            "url": "https://store.steampowered.com/app/1269700/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1273980"
+            ],
+            "title": "HeatWave",
+            "url": "https://store.steampowered.com/app/1273980/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1275550"
+            ],
+            "title": "Arctic Awakening",
+            "url": "https://store.steampowered.com/app/1275550/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1280660"
+            ],
+            "title": "Rollercoaster Mechanic",
+            "url": "https://store.steampowered.com/app/1280660/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1284730"
+            ],
+            "title": "Successor",
+            "url": "https://store.steampowered.com/app/1284730/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1297900"
+            ],
+            "title": "Gothic 1 Remake",
+            "url": "https://store.steampowered.com/app/1297900/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1299690"
+            ],
+            "title": "Gori: Cuddly Carnage",
+            "url": "https://store.steampowered.com/app/1299690/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1310410"
+            ],
+            "title": "Alone in the Dark",
+            "url": "https://store.steampowered.com/app/1310410/",
+            "type": "Game",
+            "release_date": "20 marca 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1311800"
+            ],
+            "title": "Beodara",
+            "url": "https://store.steampowered.com/app/1311800/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1315180"
+            ],
+            "title": "Spark in the Dark",
+            "url": "https://store.steampowered.com/app/1315180/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1316680"
+            ],
+            "title": "VLADiK BRUTAL",
+            "url": "https://store.steampowered.com/app/1316680/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1323140"
+            ],
+            "title": "Ninja Simulator",
+            "url": "https://store.steampowered.com/app/1323140/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1328990"
+            ],
+            "title": "Godsworn",
+            "url": "https://store.steampowered.com/app/1328990/",
+            "type": "Game",
+            "release_date": "1. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1330430"
+            ],
+            "title": "Celestial Empire",
+            "url": "https://store.steampowered.com/app/1330430/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1331290"
+            ],
+            "title": "Shattered Soul",
+            "url": "https://store.steampowered.com/app/1331290/",
+            "type": "Game",
+            "release_date": "",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1333150"
+            ],
+            "title": "Miracle Warrior of Mountains and Seas",
+            "url": "https://store.steampowered.com/app/1333150/",
+            "type": "Game",
+            "release_date": "czerwca 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1334150"
+            ],
+            "title": "SugarWinds",
+            "url": "https://store.steampowered.com/app/1334150/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1334230"
+            ],
+            "title": "Revolution: The Spark",
+            "url": "https://store.steampowered.com/app/1334230/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1341740"
+            ],
+            "title": "Askold: Path of the Shadow",
+            "url": "https://store.steampowered.com/app/1341740/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1345450"
+            ],
+            "title": "Phantom Doctrine: The Cabal",
+            "url": "https://store.steampowered.com/app/1345450/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1349300"
+            ],
+            "title": "Yakuza Empire",
+            "url": "https://store.steampowered.com/app/1349300/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1351280"
+            ],
+            "title": "Killing Stream",
+            "url": "https://store.steampowered.com/app/1351280/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1354980"
+            ],
+            "title": "Decimated",
+            "url": "https://store.steampowered.com/app/1354980/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1363080"
+            ],
+            "title": "Manor Lords",
+            "url": "https://store.steampowered.com/app/1363080/",
+            "type": "Game",
+            "release_date": "26 kwietnia 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1363400"
+            ],
+            "title": "No More Light",
+            "url": "https://store.steampowered.com/app/1363400/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1368160"
+            ],
+            "title": "Heart Of Muriet",
+            "url": "https://store.steampowered.com/app/1368160/",
+            "type": "Game",
+            "release_date": "1. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1369430"
+            ],
+            "title": "The Light of the Darkness: Renascence",
+            "url": "https://store.steampowered.com/app/1369430/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1369690"
+            ],
+            "title": "King's Orders",
+            "url": "https://store.steampowered.com/app/1369690/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1371580"
+            ],
+            "title": "Myth of Empires",
+            "url": "https://store.steampowered.com/app/1371580/",
+            "type": "Game",
+            "release_date": "18 listopada 2021",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1373910"
+            ],
+            "title": "Anvil Empires",
+            "url": "https://store.steampowered.com/app/1373910/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1374370"
+            ],
+            "title": "Witchcrafter: Empire Legends",
+            "url": "https://store.steampowered.com/app/1374370/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1374750"
+            ],
+            "title": "Out of Place",
+            "url": "https://store.steampowered.com/app/1374750/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1384060"
+            ],
+            "title": "BattleJuice Alchemist",
+            "url": "https://store.steampowered.com/app/1384060/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1391340"
+            ],
+            "title": "Necromancer",
+            "url": "https://store.steampowered.com/app/1391340/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1397880"
+            ],
+            "title": "The Weald",
+            "url": "https://store.steampowered.com/app/1397880/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1399190"
+            ],
+            "title": "Blood Oath: When The Sword Rises",
+            "url": "https://store.steampowered.com/app/1399190/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1399530"
+            ],
+            "title": "Walden Horde",
+            "url": "https://store.steampowered.com/app/1399530/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1409460"
+            ],
+            "title": "Brutal Fate",
+            "url": "https://store.steampowered.com/app/1409460/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1409830"
+            ],
+            "title": "Sons of Valhalla",
+            "url": "https://store.steampowered.com/app/1409830/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1411020"
+            ],
+            "title": "Perennial Order",
+            "url": "https://store.steampowered.com/app/1411020/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1411900"
+            ],
+            "title": "Mictlan: An Ancient Mythical Tale",
+            "url": "https://store.steampowered.com/app/1411900/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1411910"
+            ],
+            "title": "Fallen Aces",
+            "url": "https://store.steampowered.com/app/1411910/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1416360"
+            ],
+            "title": "Dissident: Frostland Escape",
+            "url": "https://store.steampowered.com/app/1416360/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1428600"
+            ],
+            "title": "Stormrite",
+            "url": "https://store.steampowered.com/app/1428600/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1442450"
+            ],
+            "title": "Monsters Domain",
+            "url": "https://store.steampowered.com/app/1442450/",
+            "type": "Game",
+            "release_date": "1. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1442630"
+            ],
+            "title": "Entropy",
+            "url": "https://store.steampowered.com/app/1442630/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1442850"
+            ],
+            "title": "Mortem: Fallen Kingdom",
+            "url": "https://store.steampowered.com/app/1442850/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1443980"
+            ],
+            "title": "Roman Empire Wars",
+            "url": "https://store.steampowered.com/app/1443980/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1449550"
+            ],
+            "title": "Chinese Empire",
+            "url": "https://store.steampowered.com/app/1449550/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1449820"
+            ],
+            "title": "Police Interceptors",
+            "url": "https://store.steampowered.com/app/1449820/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1456830"
+            ],
+            "title": "Sea Dogs: Legendary Edition",
+            "url": "https://store.steampowered.com/app/1456830/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1456940"
+            ],
+            "title": "Level Zero",
+            "url": "https://store.steampowered.com/app/1456940/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1460010"
+            ],
+            "title": "Cryospace - survival horror in space",
+            "url": "https://store.steampowered.com/app/1460010/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1460210"
+            ],
+            "title": "Compound Fracture",
+            "url": "https://store.steampowered.com/app/1460210/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1465620"
+            ],
+            "title": "Moses: From Egypt to the Promised Land",
+            "url": "https://store.steampowered.com/app/1465620/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1467530"
+            ],
+            "title": "Eye of Ouroboros",
+            "url": "https://store.steampowered.com/app/1467530/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1468110"
+            ],
+            "title": "Elements",
+            "url": "https://store.steampowered.com/app/1468110/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1478260"
+            ],
+            "title": "City of Rampage",
+            "url": "https://store.steampowered.com/app/1478260/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1481170"
+            ],
+            "title": "ZEPHON",
+            "url": "https://store.steampowered.com/app/1481170/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1482470"
+            ],
+            "title": "Pirates Republic",
+            "url": "https://store.steampowered.com/app/1482470/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1484830"
+            ],
+            "title": "Last Days",
+            "url": "https://store.steampowered.com/app/1484830/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1486920"
+            ],
+            "title": "Tempest Rising",
+            "url": "https://store.steampowered.com/app/1486920/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1487570"
+            ],
+            "title": "Far North Survival",
+            "url": "https://store.steampowered.com/app/1487570/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1488310"
+            ],
+            "title": "Renown",
+            "url": "https://store.steampowered.com/app/1488310/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1491500"
+            ],
+            "title": "Lord BullFrog",
+            "url": "https://store.steampowered.com/app/1491500/",
+            "type": "Game",
+            "release_date": "kwietnia 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1493430"
+            ],
+            "title": "Agony: Lords of Hell",
+            "url": "https://store.steampowered.com/app/1493430/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1497430"
+            ],
+            "title": "Bounty Star",
+            "url": "https://store.steampowered.com/app/1497430/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1498820"
+            ],
+            "title": "Burkov: Point of Contact",
+            "url": "https://store.steampowered.com/app/1498820/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1501730"
+            ],
+            "title": "Villagedom",
+            "url": "https://store.steampowered.com/app/1501730/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1505940"
+            ],
+            "title": "Orc Warchief: Strategy City Builder",
+            "url": "https://store.steampowered.com/app/1505940/",
+            "type": "Game",
+            "release_date": "1. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1519090"
+            ],
+            "title": "Welcome to ParadiZe",
+            "url": "https://store.steampowered.com/app/1519090/",
+            "type": "Game",
+            "release_date": "29 lutego 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1521250"
+            ],
+            "title": "Offroad Delivery Service",
+            "url": "https://store.steampowered.com/app/1521250/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1522360"
+            ],
+            "title": "Dinos Reborn",
+            "url": "https://store.steampowered.com/app/1522360/",
+            "type": "Game",
+            "release_date": "2025",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1528090"
+            ],
+            "title": "Hyper Catch",
+            "url": "https://store.steampowered.com/app/1528090/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1534840"
+            ],
+            "title": "Hyper Light Breaker",
+            "url": "https://store.steampowered.com/app/1534840/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1544560"
+            ],
+            "title": "Death in sands",
+            "url": "https://store.steampowered.com/app/1544560/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1545080"
+            ],
+            "title": "Arran: The Book of Heroes",
+            "url": "https://store.steampowered.com/app/1545080/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1546080"
+            ],
+            "title": "Every Day We Fight",
+            "url": "https://store.steampowered.com/app/1546080/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1549720"
+            ],
+            "title": "Adventure of Tuck",
+            "url": "https://store.steampowered.com/app/1549720/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1550820"
+            ],
+            "title": "Starship Survivor",
+            "url": "https://store.steampowered.com/app/1550820/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1561540"
+            ],
+            "title": "Ship of Theseus",
+            "url": "https://store.steampowered.com/app/1561540/",
+            "type": "Game",
+            "release_date": "1 października 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1562030"
+            ],
+            "title": "Ronin: Samurai Redemption",
+            "url": "https://store.steampowered.com/app/1562030/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1566690"
+            ],
+            "title": "Outpost: Infinity Siege",
+            "url": "https://store.steampowered.com/app/1566690/",
+            "type": "Game",
+            "release_date": "lutego 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1572000"
+            ],
+            "title": "Derelicts",
+            "url": "https://store.steampowered.com/app/1572000/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1578940"
+            ],
+            "title": "Vampire Clans",
+            "url": "https://store.steampowered.com/app/1578940/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1579340"
+            ],
+            "title": "Survive the Fall",
+            "url": "https://store.steampowered.com/app/1579340/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1583020"
+            ],
+            "title": "Bunker Survival",
+            "url": "https://store.steampowered.com/app/1583020/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1592280"
+            ],
+            "title": "Selaco",
+            "url": "https://store.steampowered.com/app/1592280/",
+            "type": "Game",
+            "release_date": "31 maja 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1594040"
+            ],
+            "title": "Wreckreation",
+            "url": "https://store.steampowered.com/app/1594040/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1594880"
+            ],
+            "title": "Corsairs Legacy - Pirate Action RPG &amp; Sea Battles",
+            "url": "https://store.steampowered.com/app/1594880/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1597080"
+            ],
+            "title": "Killer Bean",
+            "url": "https://store.steampowered.com/app/1597080/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1601130"
+            ],
+            "title": "Rot In A Porcelain Dream",
+            "url": "https://store.steampowered.com/app/1601130/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1601570"
+            ],
+            "title": "The Alters",
+            "url": "https://store.steampowered.com/app/1601570/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1601580"
+            ],
+            "title": "Frostpunk 2",
+            "url": "https://store.steampowered.com/app/1601580/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1605250"
+            ],
+            "title": "Darkverse: Rogue",
+            "url": "https://store.steampowered.com/app/1605250/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1606970"
+            ],
+            "title": "Ronin Trail",
+            "url": "https://store.steampowered.com/app/1606970/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1610520"
+            ],
+            "title": "Serum",
+            "url": "https://store.steampowered.com/app/1610520/",
+            "type": "Game",
+            "release_date": "1. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1614330"
+            ],
+            "title": "Crowsworn",
+            "url": "https://store.steampowered.com/app/1614330/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1617760"
+            ],
+            "title": "Vikings: Age Of The Axe",
+            "url": "https://store.steampowered.com/app/1617760/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1620420"
+            ],
+            "title": "Redemption of the Damned",
+            "url": "https://store.steampowered.com/app/1620420/",
+            "type": "Game",
+            "release_date": "4. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1620730"
+            ],
+            "title": "Hell is Us",
+            "url": "https://store.steampowered.com/app/1620730/",
+            "type": "Game",
+            "release_date": "2025",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1622590"
+            ],
+            "title": "Templar Castle Builder",
+            "url": "https://store.steampowered.com/app/1622590/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1624130"
+            ],
+            "title": "Dreamland Prison",
+            "url": "https://store.steampowered.com/app/1624130/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1632060"
+            ],
+            "title": "Terminal Earth",
+            "url": "https://store.steampowered.com/app/1632060/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1655990"
+            ],
+            "title": "Mortal Rite",
+            "url": "https://store.steampowered.com/app/1655990/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1663850"
+            ],
+            "title": "REPLACED",
+            "url": "https://store.steampowered.com/app/1663850/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1665300"
+            ],
+            "title": "Zarktor's Realm",
+            "url": "https://store.steampowered.com/app/1665300/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1670780"
+            ],
+            "title": "Out of Action",
+            "url": "https://store.steampowered.com/app/1670780/",
+            "type": "Game",
+            "release_date": "4. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1671360"
+            ],
+            "title": "Ereban: Shadow Legacy",
+            "url": "https://store.steampowered.com/app/1671360/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1674200"
+            ],
+            "title": "Alaska Gold Fever",
+            "url": "https://store.steampowered.com/app/1674200/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1674530"
+            ],
+            "title": "Feudal Baron: King's Land",
+            "url": "https://store.steampowered.com/app/1674530/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1674590"
+            ],
+            "title": "Histera",
+            "url": "https://store.steampowered.com/app/1674590/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1675680"
+            ],
+            "title": "Instinction",
+            "url": "https://store.steampowered.com/app/1675680/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1678040"
+            ],
+            "title": "Njorun's Will",
+            "url": "https://store.steampowered.com/app/1678040/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1679000"
+            ],
+            "title": "ALTERBORN",
+            "url": "https://store.steampowered.com/app/1679000/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1680800"
+            ],
+            "title": "Biwar Legend of Dragon Slayer",
+            "url": "https://store.steampowered.com/app/1680800/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1685310"
+            ],
+            "title": "The Wayward Realms",
+            "url": "https://store.steampowered.com/app/1685310/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1686090"
+            ],
+            "title": "The Revenant Protocol",
+            "url": "https://store.steampowered.com/app/1686090/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1687540"
+            ],
+            "title": "Showa American Story",
+            "url": "https://store.steampowered.com/app/1687540/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1691320"
+            ],
+            "title": "Hellbreach: Vegas",
+            "url": "https://store.steampowered.com/app/1691320/",
+            "type": "Game",
+            "release_date": "1. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1692120"
+            ],
+            "title": "Airtight City 2.0",
+            "url": "https://store.steampowered.com/app/1692120/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1693350"
+            ],
+            "title": "Stellar Valkyrie",
+            "url": "https://store.steampowered.com/app/1693350/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1697850"
+            ],
+            "title": "Rose and Locket",
+            "url": "https://store.steampowered.com/app/1697850/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1701840"
+            ],
+            "title": "ExeKiller",
+            "url": "https://store.steampowered.com/app/1701840/",
+            "type": "Game",
+            "release_date": "2025",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1702630"
+            ],
+            "title": "Arcadian Rift",
+            "url": "https://store.steampowered.com/app/1702630/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1705720"
+            ],
+            "title": "Aftermath",
+            "url": "https://store.steampowered.com/app/1705720/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1713730"
+            ],
+            "title": "Moadra",
+            "url": "https://store.steampowered.com/app/1713730/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1716310"
+            ],
+            "title": "Awaken - Astral Blade",
+            "url": "https://store.steampowered.com/app/1716310/",
+            "type": "Game",
+            "release_date": "2. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1717190"
+            ],
+            "title": "Fallen City Brawl",
+            "url": "https://store.steampowered.com/app/1717190/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1717250"
+            ],
+            "title": "Ratten Reich",
+            "url": "https://store.steampowered.com/app/1717250/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1721060"
+            ],
+            "title": "Mandragora",
+            "url": "https://store.steampowered.com/app/1721060/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1721110"
+            ],
+            "title": "Abyssus",
+            "url": "https://store.steampowered.com/app/1721110/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1722610"
+            ],
+            "title": "Unawake",
+            "url": "https://store.steampowered.com/app/1722610/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1724950"
+            ],
+            "title": "Scarlet Tale",
+            "url": "https://store.steampowered.com/app/1724950/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1729940"
+            ],
+            "title": "The Tribe Must Survive",
+            "url": "https://store.steampowered.com/app/1729940/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1731290"
+            ],
+            "title": "SPINE",
+            "url": "https://store.steampowered.com/app/1731290/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1733250"
+            ],
+            "title": "Turbo Kid",
+            "url": "https://store.steampowered.com/app/1733250/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1737870"
+            ],
+            "title": "REKA",
+            "url": "https://store.steampowered.com/app/1737870/",
+            "type": "Game",
+            "release_date": "2. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1756280"
+            ],
+            "title": "Heroes of Britannia",
+            "url": "https://store.steampowered.com/app/1756280/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1758760"
+            ],
+            "title": "Pandemic Shooter",
+            "url": "https://store.steampowered.com/app/1758760/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1759010"
+            ],
+            "title": "Phobos - Subhuman",
+            "url": "https://store.steampowered.com/app/1759010/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1759550"
+            ],
+            "title": "Conquer the Dungeon",
+            "url": "https://store.steampowered.com/app/1759550/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1761310"
+            ],
+            "title": "Paragrowth",
+            "url": "https://store.steampowered.com/app/1761310/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1765920"
+            ],
+            "title": "Gimle: The Broken Prophecy",
+            "url": "https://store.steampowered.com/app/1765920/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1774880"
+            ],
+            "title": "Blight: Survival",
+            "url": "https://store.steampowered.com/app/1774880/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1779060"
+            ],
+            "title": "The Age of Hell",
+            "url": "https://store.steampowered.com/app/1779060/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1781190"
+            ],
+            "title": "IMMORTAL: And the Death that Follows",
+            "url": "https://store.steampowered.com/app/1781190/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1782780"
+            ],
+            "title": "Worland: Lost Runes",
+            "url": "https://store.steampowered.com/app/1782780/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1785630"
+            ],
+            "title": "Gedda Cake",
+            "url": "https://store.steampowered.com/app/1785630/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1788260"
+            ],
+            "title": "World War II: Underground",
+            "url": "https://store.steampowered.com/app/1788260/",
+            "type": "Game",
+            "release_date": "",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1795510"
+            ],
+            "title": "地罰上らば竜の降る／Rise of Rebellion",
+            "url": "https://store.steampowered.com/app/1795510/",
+            "type": "Game",
+            "release_date": "2025",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1802880"
+            ],
+            "title": "The Devil Within: Satgat",
+            "url": "https://store.steampowered.com/app/1802880/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1807810"
+            ],
+            "title": "The Axis Unseen",
+            "url": "https://store.steampowered.com/app/1807810/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1811350"
+            ],
+            "title": "Zombie Hell: Infected City",
+            "url": "https://store.steampowered.com/app/1811350/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1817030"
+            ],
+            "title": "Swordcery",
+            "url": "https://store.steampowered.com/app/1817030/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1822510"
+            ],
+            "title": "Fog &amp; Silver",
+            "url": "https://store.steampowered.com/app/1822510/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1823840"
+            ],
+            "title": "Illusion Lands",
+            "url": "https://store.steampowered.com/app/1823840/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1823950"
+            ],
+            "title": "Laysara: Summit Kingdom",
+            "url": "https://store.steampowered.com/app/1823950/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1827240"
+            ],
+            "title": "Plague Lords: Witch Hunt",
+            "url": "https://store.steampowered.com/app/1827240/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1829560"
+            ],
+            "title": "NECROBLADE",
+            "url": "https://store.steampowered.com/app/1829560/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1832040"
+            ],
+            "title": "Flintlock: The Siege of Dawn",
+            "url": "https://store.steampowered.com/app/1832040/",
+            "type": "Game",
+            "release_date": "3. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1836440"
+            ],
+            "title": "The Hellbrand",
+            "url": "https://store.steampowered.com/app/1836440/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1839950"
+            ],
+            "title": "Terminator: Dark Fate - Defiance",
+            "url": "https://store.steampowered.com/app/1839950/",
+            "type": "Game",
+            "release_date": "21 lutego 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1848410"
+            ],
+            "title": "FEAR: Call of the village",
+            "url": "https://store.steampowered.com/app/1848410/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1857090"
+            ],
+            "title": "Norland",
+            "url": "https://store.steampowered.com/app/1857090/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1866130"
+            ],
+            "title": "Morbid Metal",
+            "url": "https://store.steampowered.com/app/1866130/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1867650"
+            ],
+            "title": "Bicycle Mechanic Simulator",
+            "url": "https://store.steampowered.com/app/1867650/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1874190"
+            ],
+            "title": "Vorax",
+            "url": "https://store.steampowered.com/app/1874190/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1878930"
+            ],
+            "title": "Enter The Labyrinth",
+            "url": "https://store.steampowered.com/app/1878930/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1880470"
+            ],
+            "title": "The Inquisitor",
+            "url": "https://store.steampowered.com/app/1880470/",
+            "type": "Game",
+            "release_date": "8 lutego 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1880610"
+            ],
+            "title": "Deliver At All Costs",
+            "url": "https://store.steampowered.com/app/1880610/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1890450"
+            ],
+            "title": "SynCo 2321",
+            "url": "https://store.steampowered.com/app/1890450/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1892090"
+            ],
+            "title": "The Last Citadel",
+            "url": "https://store.steampowered.com/app/1892090/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1892100"
+            ],
+            "title": "HEART ABYSS",
+            "url": "https://store.steampowered.com/app/1892100/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1894120"
+            ],
+            "title": "ILL NESS",
+            "url": "https://store.steampowered.com/app/1894120/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1898300"
+            ],
+            "title": "ASKA",
+            "url": "https://store.steampowered.com/app/1898300/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1905550"
+            ],
+            "title": "BattleSage",
+            "url": "https://store.steampowered.com/app/1905550/",
+            "type": "Game",
+            "release_date": "czerwca 2025",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1910140"
+            ],
+            "title": "Sunset: Broken Embers",
+            "url": "https://store.steampowered.com/app/1910140/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1917990"
+            ],
+            "title": "Being and Becoming",
+            "url": "https://store.steampowered.com/app/1917990/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1922670"
+            ],
+            "title": "Banner of Blood",
+            "url": "https://store.steampowered.com/app/1922670/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1927360"
+            ],
+            "title": "Mira and the Legend of the Djinns",
+            "url": "https://store.steampowered.com/app/1927360/",
+            "type": "Game",
+            "release_date": "1. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1928980"
+            ],
+            "title": "Nightingale",
+            "url": "https://store.steampowered.com/app/1928980/",
+            "type": "Game",
+            "release_date": "22 lutego 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1932190"
+            ],
+            "title": "Outbreak: Shades of Horror",
+            "url": "https://store.steampowered.com/app/1932190/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1933000"
+            ],
+            "title": "Luna Abyss",
+            "url": "https://store.steampowered.com/app/1933000/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1933840"
+            ],
+            "title": "Moon Mystery",
+            "url": "https://store.steampowered.com/app/1933840/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1934030"
+            ],
+            "title": "Virtua Unlimited Project",
+            "url": "https://store.steampowered.com/app/1934030/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1938100"
+            ],
+            "title": "Notmads",
+            "url": "https://store.steampowered.com/app/1938100/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1940080"
+            ],
+            "title": "Rooted",
+            "url": "https://store.steampowered.com/app/1940080/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1954130"
+            ],
+            "title": "Meifumado",
+            "url": "https://store.steampowered.com/app/1954130/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1960050"
+            ],
+            "title": "Krispain Hero:Roguelite Dungeon Shooter Fire Simulator Counter FPS World",
+            "url": "https://store.steampowered.com/app/1960050/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1961600"
+            ],
+            "title": "Darfall",
+            "url": "https://store.steampowered.com/app/1961600/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1963610"
+            ],
+            "title": "Road to Vostok",
+            "url": "https://store.steampowered.com/app/1963610/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1965470"
+            ],
+            "title": "Barkhan",
+            "url": "https://store.steampowered.com/app/1965470/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1968940"
+            ],
+            "title": "Nazralath: The Fallen World",
+            "url": "https://store.steampowered.com/app/1968940/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1972450"
+            ],
+            "title": "Earth of Oryn",
+            "url": "https://store.steampowered.com/app/1972450/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1977610"
+            ],
+            "title": "Long Gone",
+            "url": "https://store.steampowered.com/app/1977610/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1978590"
+            ],
+            "title": "Anger Foot",
+            "url": "https://store.steampowered.com/app/1978590/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1993440"
+            ],
+            "title": "Times Dungeon",
+            "url": "https://store.steampowered.com/app/1993440/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1993450"
+            ],
+            "title": "Yet Another Fantasy Title (YAFT)",
+            "url": "https://store.steampowered.com/app/1993450/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1994000"
+            ],
+            "title": "Rogue Soulstone",
+            "url": "https://store.steampowered.com/app/1994000/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1995520"
+            ],
+            "title": "Pax Dei",
+            "url": "https://store.steampowered.com/app/1995520/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1997660"
+            ],
+            "title": "GreedFall 2",
+            "url": "https://store.steampowered.com/app/1997660/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2000960"
+            ],
+            "title": "Highwater",
+            "url": "https://store.steampowered.com/app/2000960/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2001850"
+            ],
+            "title": "Snaccoon",
+            "url": "https://store.steampowered.com/app/2001850/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2005090"
+            ],
+            "title": "EVOTINCTION",
+            "url": "https://store.steampowered.com/app/2005090/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2008270"
+            ],
+            "title": "Biters &amp; Bullets",
+            "url": "https://store.steampowered.com/app/2008270/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2015760"
+            ],
+            "title": "Havenhold",
+            "url": "https://store.steampowered.com/app/2015760/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2050420"
+            ],
+            "title": "ARK 2",
+            "url": "https://store.steampowered.com/app/2050420/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2072260"
+            ],
+            "title": "重启战纪",
+            "url": "https://store.steampowered.com/app/2072260/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2074620"
+            ],
+            "title": "Ars Notoria",
+            "url": "https://store.steampowered.com/app/2074620/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2074920"
+            ],
+            "title": "The First Descendant",
+            "url": "https://store.steampowered.com/app/2074920/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2075720"
+            ],
+            "title": "9 Days",
+            "url": "https://store.steampowered.com/app/2075720/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2083940"
+            ],
+            "title": "DROSS",
+            "url": "https://store.steampowered.com/app/2083940/",
+            "type": "Game",
+            "release_date": "1. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2104460"
+            ],
+            "title": "Mala Petaka",
+            "url": "https://store.steampowered.com/app/2104460/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2106730"
+            ],
+            "title": "Phantom Hellcat",
+            "url": "https://store.steampowered.com/app/2106730/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2113960"
+            ],
+            "title": "KVLT",
+            "url": "https://store.steampowered.com/app/2113960/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2114540"
+            ],
+            "title": "Absolute Matter",
+            "url": "https://store.steampowered.com/app/2114540/",
+            "type": "Game",
+            "release_date": "czerwca 2025",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2120110"
+            ],
+            "title": "Project Morph",
+            "url": "https://store.steampowered.com/app/2120110/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2124100"
+            ],
+            "title": "Transience",
+            "url": "https://store.steampowered.com/app/2124100/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2131860"
+            ],
+            "title": "Ashfall",
+            "url": "https://store.steampowered.com/app/2131860/",
+            "type": "Game",
+            "release_date": "3. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2139460"
+            ],
+            "title": "Once Human",
+            "url": "https://store.steampowered.com/app/2139460/",
+            "type": "Game",
+            "release_date": "3. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2183900"
+            ],
+            "title": "Warhammer 40,000: Space Marine 2",
+            "url": "https://store.steampowered.com/app/2183900/",
+            "type": "Game",
+            "release_date": "9 września 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2185250"
+            ],
+            "title": "Iron Corbo: Kung Fu Janitor",
+            "url": "https://store.steampowered.com/app/2185250/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2198510"
+            ],
+            "title": "New Cycle",
+            "url": "https://store.steampowered.com/app/2198510/",
+            "type": "Game",
+            "release_date": "18 stycznia 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2201710"
+            ],
+            "title": "Three Kingdoms Zhao Yun",
+            "url": "https://store.steampowered.com/app/2201710/",
+            "type": "Game",
+            "release_date": "stycznia 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2209140"
+            ],
+            "title": "Ascent of Ashes",
+            "url": "https://store.steampowered.com/app/2209140/",
+            "type": "Game",
+            "release_date": "1. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2294660"
+            ],
+            "title": "The Quinfall",
+            "url": "https://store.steampowered.com/app/2294660/",
+            "type": "Game",
+            "release_date": "30 stycznia 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2321470"
+            ],
+            "title": "Deep Rock Galactic: Survivor",
+            "url": "https://store.steampowered.com/app/2321470/",
+            "type": "Game",
+            "release_date": "1. kwartał 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2358720"
+            ],
+            "title": "Black Myth: Wukong",
+            "url": "https://store.steampowered.com/app/2358720/",
+            "type": "Game",
+            "release_date": "20 sierpnia 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2370280"
+            ],
+            "title": "Nobody's Left",
+            "url": "https://store.steampowered.com/app/2370280/",
+            "type": "Game",
+            "release_date": "Wkrótce dostępne",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2417610"
+            ],
+            "title": "METAL GEAR SOLID Δ: SNAKE EATER",
+            "url": "https://store.steampowered.com/app/2417610/",
+            "type": "Game",
+            "release_date": "Nie ogłoszono",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2420110"
+            ],
+            "title": "Horizon Forbidden West™ Edycja kompletna",
+            "url": "https://store.steampowered.com/app/2420110/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2457220"
+            ],
+            "title": "Avowed",
+            "url": "https://store.steampowered.com/app/2457220/",
+            "type": "Game",
+            "release_date": "2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2558200"
+            ],
+            "title": "Call of Sentinels",
+            "url": "https://store.steampowered.com/app/2558200/",
+            "type": "Game",
+            "release_date": "11 stycznia 2024",
+            "note": null,
+            "price": null,
+            "discount": 0
+        }
+    ]
+}
