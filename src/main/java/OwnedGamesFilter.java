@@ -23,7 +23,7 @@ public class OwnedGamesFilter {
             // Odfiltruj gry, zostawiając tylko te, których nie masz
             Set<String> filteredGames = new HashSet<>();
             for (String game : allGames) {
-                // Usuń link, cenę itp. ze scraped_data
+
                 String filteredGame = game.replaceAll("Link do oferty: .*", "")
                         .replaceAll("Cena: .*", "")
                         .trim();
@@ -40,7 +40,7 @@ public class OwnedGamesFilter {
 
             filteredGames.removeAll(ownedGames);
 
-            // Zapisz gry do nowego pliku
+
             saveFilteredGames(filteredGames, filteredGamesFile);
 
         } catch (IOException e) {
@@ -53,7 +53,7 @@ public class OwnedGamesFilter {
         try (BufferedReader reader = new BufferedReader(new FileReader(ownedGamesFile))) {
             String line;
             while ((line = reader.readLine()) != null) {
-                // Dodaj nazwy gier do zbioru posiadanych gier
+
                 ownedGames.add(line.trim());
             }
         }
@@ -65,7 +65,7 @@ public class OwnedGamesFilter {
         try (BufferedReader reader = new BufferedReader(new FileReader(scrapedDataFile))) {
             String line;
             while ((line = reader.readLine()) != null) {
-                // Dodaj wszystkie gry ze scraped_data do zbioru
+
                 allGames.add(line.trim());
             }
         }
@@ -75,7 +75,7 @@ public class OwnedGamesFilter {
     private static void saveFilteredGames(Set<String> filteredGames, String filteredGamesFile) throws IOException {
         try (PrintWriter writer = new PrintWriter(new FileWriter(filteredGamesFile))) {
             for (String game : filteredGames) {
-                // Zapisz gry do pliku
+
                 writer.println(game);
             }
         }

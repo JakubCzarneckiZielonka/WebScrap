@@ -20,14 +20,14 @@ public class JsoupTest {
     }
 
     public static void scrapeAndPrintData() throws IOException {
-        //link do naszej strony
+
         String baseUrl = "https://dostepy.com/pl/nowe-produkty?page=";
         //liczba produktów
         int totalOffers = 0;
 
-        //tworzenie ścieżki do katalogu domowego
+
         String desktopPath = System.getProperty("user.home") + "/Desktop/";
-        //tworzymy pełną ścieżkę do pliku gdzie będą zapisane dane
+
         String filePath = desktopPath + "scraped_data.txt";
 
         // Otwarcie strumienia do zapisu danych do pliku o ścieżce filePath.
@@ -58,7 +58,7 @@ public class JsoupTest {
             }
         }
 
-        // Wyświetl łączną liczbę ofert
+
         System.out.println("Liczba ofert: " + totalOffers);
     }
 }

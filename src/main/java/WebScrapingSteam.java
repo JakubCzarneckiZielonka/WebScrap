@@ -14,7 +14,7 @@ import java.util.Map;
 
 public class WebScrapingSteam {
 
-    public static final String USER_API_KEY = "your_steam_api_key";
+    public static final String USER_API_KEY = "4237F1EF052B65DDB502B7B0A020AA9A";
     public static final String USER_STEAM_ID = "76561199222400750";
     public static final String APP_LIST_API_URL = "https://api.steampowered.com/ISteamApps/GetAppList/v2/";
     public static final String USER_GAME_LIST_API_URL = "http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/";
